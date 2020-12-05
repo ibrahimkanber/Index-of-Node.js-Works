@@ -22,7 +22,7 @@
                 <td><img src="https://user-images.githubusercontent.com/65809527/101241589-b9fb2c80-36f7-11eb-9767-21b21e73a674.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
-                <td>Blog Project EXPRESS && MONGO && EJS</td>
+                <td>Blog Project WITH EXPRESS</td>
                 <td><a href="https://github.com/ibrahimkanber/BLOG-PROJECT-EXPRESS-JS-AND-MONGO-DB">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/65809527/100656799-8f068680-334d-11eb-8ed5-00cde8bd486a.gif" alt="gif"  style="height:500px"></td>
             </tr>
