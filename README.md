@@ -18,7 +18,7 @@
         <tbody>
             <tr>
                 <td>Question Answer Restful Api</td>
-                <td><a href="https://github.com/ibrahimkanber/QUESTION-ANSWER-API-PROJECT-EXPRESS-JS-MONGO-DB">Repo details..</a></td>
+                <td><a href="https://github.com/ibrahimkanber/Question-and-Answer-API">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/65809527/101241589-b9fb2c80-36f7-11eb-9767-21b21e73a674.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
